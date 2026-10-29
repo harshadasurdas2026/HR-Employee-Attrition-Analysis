@@ -1,7 +1,5 @@
 HR Employee Analysis Dashboard
 
-Author: Harshada Surdas
-
 📌 Project Overview
 
 This Power BI project analyzes employee details, attendance, and salary data through interactive dashboards.
